@@ -29,7 +29,7 @@ tzdata==2025.2
 urllib3==2.4.0
 websocket-client==1.8.0
 wsproto==1.2.0
-python-dotenv==1.0.0
-streamlit==1.0.0
-langchain==0.0.1
-langchain-openai==0.0.1
+python-dotenv
+streamlit
+langchain
+langchain-openai
